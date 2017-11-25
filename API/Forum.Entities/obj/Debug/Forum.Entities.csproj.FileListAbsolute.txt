@@ -1,0 +1,5 @@
+D:\GitHub\Forum\API\Forum.Entities\bin\Debug\Forum.Entities.dll
+D:\GitHub\Forum\API\Forum.Entities\bin\Debug\Forum.Entities.pdb
+D:\GitHub\Forum\API\Forum.Entities\obj\Debug\Forum.Entities.csprojResolveAssemblyReference.cache
+D:\GitHub\Forum\API\Forum.Entities\obj\Debug\Forum.Entities.dll
+D:\GitHub\Forum\API\Forum.Entities\obj\Debug\Forum.Entities.pdb

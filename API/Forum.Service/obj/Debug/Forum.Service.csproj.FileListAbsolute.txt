@@ -1,0 +1,9 @@
+D:\GitHub\Forum\API\Forum.Service\bin\Debug\Forum.Service.dll
+D:\GitHub\Forum\API\Forum.Service\bin\Debug\Forum.Service.pdb
+D:\GitHub\Forum\API\Forum.Service\bin\Debug\Forum.Entities.dll
+D:\GitHub\Forum\API\Forum.Service\bin\Debug\Forum.Repository.dll
+D:\GitHub\Forum\API\Forum.Service\bin\Debug\Forum.Entities.pdb
+D:\GitHub\Forum\API\Forum.Service\bin\Debug\Forum.Repository.pdb
+D:\GitHub\Forum\API\Forum.Service\obj\Debug\Forum.Service.csprojResolveAssemblyReference.cache
+D:\GitHub\Forum\API\Forum.Service\obj\Debug\Forum.Service.dll
+D:\GitHub\Forum\API\Forum.Service\obj\Debug\Forum.Service.pdb
